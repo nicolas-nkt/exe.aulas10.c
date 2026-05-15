@@ -1,1 +1,0 @@
-# exe.aulas10.c
